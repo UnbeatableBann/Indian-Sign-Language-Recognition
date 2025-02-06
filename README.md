@@ -45,7 +45,7 @@ This project focuses on recognizing Indian Sign Language (ISL) gestures using vi
 - Each gesture video is converted into a sequence of landmark coordinates.
 - The dataset includes common ISL gestures like greetings, alphabets, and numbers.
 
-![Dataset Sample](images\dataset_images.png)
+![Dataset Sample](images/dataset_images.png)
 
 ## Model Training
 1. **Preprocess Data:** Extract landmarks from videos and store them in CSV or NumPy arrays.
