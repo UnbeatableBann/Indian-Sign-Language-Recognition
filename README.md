@@ -17,7 +17,7 @@ This project focuses on recognizing Indian Sign Language (ISL) gestures using vi
 4. **Sequence Classification:** Uses an LSTM model to classify gestures.
 5. **Prediction Output:** Displays or converts recognized gestures into text or speech.
 
-![Workflow Diagram]([images/workflow.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40swatiavhad91%2Findian-sign-language-recognition-using-machine-learning-part2-ff44c71f20da&psig=AOvVaw1_wdX4AE8ZXSbXY2HLK0Fc&ust=1738910312416000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMCzme63rosDFQAAAAAdAAAAABAZ))
+![Workflow Diagram](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40swatiavhad91%2Findian-sign-language-recognition-using-machine-learning-part2-ff44c71f20da&psig=AOvVaw1_wdX4AE8ZXSbXY2HLK0Fc&ust=1738910312416000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMCzme63rosDFQAAAAAdAAAAABAZ)
 
 ## Technologies Used
 - **Python** (OpenCV, NumPy, Pandas)
@@ -45,7 +45,7 @@ This project focuses on recognizing Indian Sign Language (ISL) gestures using vi
 - Each gesture video is converted into a sequence of landmark coordinates.
 - The dataset includes common ISL gestures like greetings, alphabets, and numbers.
 
-![Dataset Sample](C:\Users\Shadab\OneDrive\Pictures\Screenshots\Screenshot 2025-02-06 121349.png)
+![Dataset Sample](images\dataset_images.png)
 
 ## Model Training
 1. **Preprocess Data:** Extract landmarks from videos and store them in CSV or NumPy arrays.
