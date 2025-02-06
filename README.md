@@ -29,7 +29,7 @@ This project focuses on recognizing Indian Sign Language (ISL) gestures using vi
 1. Clone the repository:
    ```bash
    git clone https://github.com/UnbeatableBann/Indian Sign Language.git
-   cd ISL-Recognition
+   cd Indian Sign Language
    ```
 2. Install dependencies:
    ```bash
