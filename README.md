@@ -63,8 +63,6 @@ This project focuses on recognizing Indian Sign Language (ISL) gestures using vi
 - Improve accuracy with attention-based neural networks.
 - Develop a mobile application for on-the-go recognition.
 
-## Contributors
-- Your Name (@yourgithub)
 
 ## License
 This project is licensed under the MIT License.
